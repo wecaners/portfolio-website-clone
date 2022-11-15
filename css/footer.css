@@ -1,0 +1,14 @@
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background: var(--main-grey);
+    border-top: 4px solid var(--main-red);
+    padding: 2rem;
+}
+
+footer p{
+    font-size: 1.6rem;
+    margin: 2rem;
+}
+
